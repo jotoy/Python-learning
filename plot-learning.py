@@ -1,3 +1,9 @@
+"""
+参考莫烦python教程
+本code使用TensorFlow搭建一个简单的神经网络，并且包含使用matplotlib中的可视化实验结果。
+plt.ion()函数搭配remove函数实现在一张图中更新可视化结果
+
+"""
 import tensorflow as tf
 import numpy as np
 import matplotlib.pyplot as plt
